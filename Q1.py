@@ -16,7 +16,7 @@ i=0
 
 
 while(abs(H0-H1)>=tol):
-    dp= dl*(1+zH)**2
+    dp= dl*(1+zH)
 
     
     H1=H0
